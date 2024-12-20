@@ -1,20 +1,20 @@
 # Windows theme
-Some tools and files I used for making Windows 11 look my way.
+Some tools and files I use for making Windows 11 look my way.
 
 [![Windows 11](./screenshot.png)](./![preview.png](screenshot.png))
 
 ## AtlasOS
-I used AtlasOS to make Windows more performant, usable, and privacy-friendly. You can download it [here](https://atlasos.net/).
+I use AtlasOS to make Windows more performant, usable, and privacy-friendly. You can download it [here](https://atlasos.net/).
 
 ## Custom cursor
-I used a custom cursor from [this](https://github.com/antiden/macOS-cursors-for-Windows) repository.
+I use a custom cursor from [this](https://github.com/antiden/macOS-cursors-for-Windows) repository.
 
 1. Download the repository.
 2. Install with Install.inf. (Right-click on Install.inf and click Install)
 3. Go to Settings > Devices > Mouse > Additional mouse options > Pointers > Browse and select the cursor you want.
 
 ## Topbar
-I used Zebar to make the topbar look like linux. You can download it [here](https://github.com/glzr-io/zebar).
+I use Zebar to make the topbar look like linux. You can download it [here](https://github.com/glzr-io/zebar).
 
 To configure Zebar:
 
@@ -31,7 +31,7 @@ To configure Zebar:
 I just hide it.
 
 ## Windows Manager
-I used FancyZones from [PowerToys](https://github.com/microsoft/PowerToys) to manage windows.
+I use FancyZones from [PowerToys](https://github.com/microsoft/PowerToys) to manage windows.
 
 1. Download PowerToys from the releases page.
 2. Install PowerToys.
@@ -41,7 +41,39 @@ I used FancyZones from [PowerToys](https://github.com/microsoft/PowerToys) to ma
 * With that when I drag a window and click on Shift, I can snap it to the zones.
 
 ## Search
-I used PowerToys Run from [PowerToys](https://github.com/microsoft/PowerToys) to search for apps, files, and more.
+I use PowerToys Run from [PowerToys](https://github.com/microsoft/PowerToys) to search for apps, files, and more.
+
+## Terminal
+I use WizTerm. You can download it [here](https://wezfurlong.org/wezterm/index.html).
+
+To configure WizTerm:
+
+1. Copy the content only of [terminal](./terminal) folder to your home directory. (C:\Users\your-username)
+2. Simply run the terminal and it will automatically load the configuration.
+
+## Nice terminal
+I use Oh My Posh to make the terminal look better. You can download it [here](https://ohmyposh.dev/).
+
+To configure Oh My Posh:
+
+1. Install Oh My Posh. (You can install it with the following command)
+```
+winget install JanDeDobbeleer.OhMyPosh -s winget
+```
+2. Copy the content of [oh-my-posh](./oh-my-posh) folder to your home directory. (C:\Users\your-username)
+3. Open WizTerm and run the following command to create the profile.
+```
+New-Item -Path $PROFILE -Type File -Force
+```
+4. Open the profile with Notepad.
+```
+notepad $PROFILE
+```
+5. Add the following lines to the profile.
+```
+oh-my-posh init pwsh --config ~/hyko2024.omp.json | Invoke-Expression
+```
+6. Save the profile and restart the terminal.
 
 ## Wallpaper
-I used Wallpaper Engine to set a live wallpaper. You can download it [here](https://store.steampowered.com/app/431960/Wallpaper_Engine/).
+I use Wallpaper Engine to set a live wallpaper. You can download it [here](https://store.steampowered.com/app/431960/Wallpaper_Engine/).

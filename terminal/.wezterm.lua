@@ -41,7 +41,7 @@ config.window_padding = {
 }
 
 -- tabs
-config.hide_tab_bar_if_only_one_tab = true
+config.hide_tab_bar_if_only_one_tab = false
 config.use_fancy_tab_bar = false
 -- config.tab_bar_at_bottom = true
 

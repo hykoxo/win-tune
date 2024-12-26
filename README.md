@@ -13,22 +13,8 @@ I use a custom cursor from [this](https://github.com/antiden/macOS-cursors-for-W
 2. Install with Install.inf. (Right-click on Install.inf and click Install)
 3. Go to Settings > Devices > Mouse > Additional mouse options > Pointers > Browse and select the cursor you want.
 
-## Topbar
-I use Zebar to make the topbar look like linux. You can download it [here](https://github.com/glzr-io/zebar).
-
-To configure Zebar:
-
-1. Copy [top-bar](./top-bar) folder to Zebar directory
-```
-~/.glzr/zebar/
-```
-
-2. Desactivate the default theme and activate the vanilla-clear theme from the Zebar settings gui.
-
-* You can open the Zebar setting gui from the taskbar icon.
-
-## Default Taskbar
-I just hide it.
+## MyDockFinder
+I use MyDockFinder to make the topbar and the dock look like macos. You can download it [here](https://store.steampowered.com/app/1787090/MyDockFinder/).
 
 ## Windows Manager
 I use FancyZones from [PowerToys](https://github.com/microsoft/PowerToys) to manage windows.

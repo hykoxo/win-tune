@@ -13,8 +13,8 @@ I use a custom cursor from [this](https://github.com/antiden/macOS-cursors-for-W
 2. Install with Install.inf. (Right-click on Install.inf and click Install)
 3. Go to Settings > Devices > Mouse > Additional mouse options > Pointers > Browse and select the cursor you want.
 
-## MyDockFinder
-I use MyDockFinder to make the topbar and the dock look like macos. You can download it [here](https://store.steampowered.com/app/1787090/MyDockFinder/).
+## Taskbar
+I use TranslucentTB to make the taskbar transparent. You can download it [here](https://github.com/TranslucentTB/TranslucentTB).
 
 ## Windows Manager
 I use FancyZones from [PowerToys](https://github.com/microsoft/PowerToys) to manage windows.

@@ -83,6 +83,7 @@ On the windows terminal or vscode its not working for me, here is how you can co
 },
 ```
 7. Save the settings and restart the terminal.
+8. For vscode, modify the settings, search for `@feature:terminal font` and set it to `MesloLGM Nerd Font`.
 
 Now you should see the nice terminal.
 

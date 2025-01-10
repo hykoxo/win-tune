@@ -13,6 +13,8 @@ I use a custom cursor from [this](https://github.com/antiden/macOS-cursors-for-W
 2. Install with Install.inf. (Right-click on Install.inf and click Install)
 3. Go to Settings > Devices > Mouse > Additional mouse options > Pointers > Browse and select the cursor you want.
 
+I use the one with the shadow.
+
 ## Taskbar
 I use TranslucentTB to make the taskbar transparent. You can download it [here](https://github.com/TranslucentTB/TranslucentTB).
 
@@ -37,7 +39,7 @@ To configure WizTerm:
 1. Copy the content only of [terminal](./terminal) folder to your home directory. (C:\Users\your-username)
 2. Simply run the terminal and it will automatically load the configuration.
 
-## Nice terminal
+## Oh My Posh (nice terminal)
 I use Oh My Posh to make the terminal look better. You can download it [here](https://ohmyposh.dev/).
 
 To configure Oh My Posh:
@@ -57,9 +59,34 @@ notepad $PROFILE
 ```
 5. Add the following lines to the profile.
 ```
-oh-my-posh init pwsh --config ~/hyko2024.omp.json | Invoke-Expression
+oh-my-posh init pwsh --config ~/zonny.omp.json | Invoke-Expression
 ```
 6. Save the profile and restart the terminal.
 
+### Compatibility
+Oh My Posh works well with WizTerm but it may not work with other terminals.
+On the windows terminal or vscode its not working for me, here is how you can configure it:
+
+1. Download the font [MesloLGM Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases).
+2. Search for Meslo.zip and download it.
+3. Extract the zip and install the font.
+
+4. Open the windows terminal with administrator privileges.
+5. press `CTRL + SHIFT + ,` to open the settings.
+6. Add/edit the following lines to the settings.
+```json
+"defaults": {
+    "font":
+    {
+        "face": "MesloLGM Nerd Font"
+    }
+},
+```
+7. Save the settings and restart the terminal.
+
+Now you should see the nice terminal.
+
 ## Wallpaper
 I use Wallpaper Engine to set a live wallpaper. You can download it [here](https://store.steampowered.com/app/431960/Wallpaper_Engine/).
+
+Here is the wallpaper on the screenshot: [https://steamcommunity.com/sharedfiles/filedetails/?id=2406282996](https://steamcommunity.com/sharedfiles/filedetails/?id=2406282996)

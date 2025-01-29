@@ -1,4 +1,4 @@
-# Windows theme
+# win-tune
 Some tools and files I use for making Windows 11 look my way.
 
 [![Windows 11](./screenshot.png)](./![preview.png](screenshot.png))

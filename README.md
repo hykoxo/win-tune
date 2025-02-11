@@ -95,6 +95,6 @@ Here is the wallpaper on the screenshot: [https://steamcommunity.com/sharedfiles
 ## Custom apps icons
 I use Custom Icons for this list of apps:
 
-- Cursor (./custom-icons/cursor.ico)
+- Cursor [cursor.ico](./custom-icons/cursor.ico)
 
 Simply replace the icon of the app in the properties of the app.

@@ -34,11 +34,8 @@ I use Wallpaper Engine to set a live wallpaper. You can download it [here](https
 Here is the wallpaper on the screenshot: [https://steamcommunity.com/sharedfiles/filedetails/?id=2406282996](https://steamcommunity.com/sharedfiles/filedetails/?id=2406282996)
 
 ## Custom apps icons
-I use Custom Icons for this list of apps:
-
-- Cursor ([cursor.ico](./custom-icons/cursor.ico))
-
-Simply replace the icon of the app in the properties of the app.
+I use Custom Icons for apps in my taskbar.
+Simply replace the icon in the properties of the app.
 
 ## Terminal
 I use WizTerm. You can download it [here](https://wezfurlong.org/wezterm/index.html).

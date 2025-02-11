@@ -146,10 +146,12 @@ config.window_decorations = "INTEGRATED_BUTTONS | RESIZE"
 config.default_prog = { "powershell.exe", "-NoLogo"}
 config.initial_cols = 80
 
--- Disable tab title
-wezterm.on("format-tab-title", function(tab, tabs, panes, config, hover, max_width)
-	local date = wezterm.strftime("%Y-%m-%d %H:%M")
-	return " " .. date .. " "
+local tab_times = {}
+wezterm.on('format-tab-title', function(tab, tabs, panes, config, hover, max_width)
+  if tab_times[tab.tab_id] == nil then
+    tab_times[tab.tab_id] = wezterm.strftime("%Y-%m-%d %H:%M")
+  end
+  return " " .. tab_times[tab.tab_id] .. " "
 end)
 
 return config

@@ -91,3 +91,10 @@ Now you should see the nice terminal.
 I use Wallpaper Engine to set a live wallpaper. You can download it [here](https://store.steampowered.com/app/431960/Wallpaper_Engine/).
 
 Here is the wallpaper on the screenshot: [https://steamcommunity.com/sharedfiles/filedetails/?id=2406282996](https://steamcommunity.com/sharedfiles/filedetails/?id=2406282996)
+
+## Custom apps icons
+I use Custom Icons for this list of apps:
+
+- Cursor (./custom-icons/cursor.ico)
+
+Simply replace the icon of the app in the properties of the app.

@@ -28,8 +28,17 @@ I use FancyZones from [PowerToys](https://github.com/microsoft/PowerToys) to man
 
 * With that when I drag a window and click on Shift, I can snap it to the zones.
 
-## Search
-I use PowerToys Run from [PowerToys](https://github.com/microsoft/PowerToys) to search for apps, files, and more.
+## Wallpaper
+I use Wallpaper Engine to set a live wallpaper. You can download it [here](https://store.steampowered.com/app/431960/Wallpaper_Engine/).
+
+Here is the wallpaper on the screenshot: [https://steamcommunity.com/sharedfiles/filedetails/?id=2406282996](https://steamcommunity.com/sharedfiles/filedetails/?id=2406282996)
+
+## Custom apps icons
+I use Custom Icons for this list of apps:
+
+- Cursor ([cursor.ico](./custom-icons/cursor.ico))
+
+Simply replace the icon of the app in the properties of the app.
 
 ## Terminal
 I use WizTerm. You can download it [here](https://wezfurlong.org/wezterm/index.html).
@@ -86,15 +95,3 @@ On the windows terminal or vscode its not working for me, here is how you can co
 8. For vscode, modify the settings, search for `@feature:terminal font` and set it to `MesloLGM Nerd Font`.
 
 Now you should see the nice terminal.
-
-## Wallpaper
-I use Wallpaper Engine to set a live wallpaper. You can download it [here](https://store.steampowered.com/app/431960/Wallpaper_Engine/).
-
-Here is the wallpaper on the screenshot: [https://steamcommunity.com/sharedfiles/filedetails/?id=2406282996](https://steamcommunity.com/sharedfiles/filedetails/?id=2406282996)
-
-## Custom apps icons
-I use Custom Icons for this list of apps:
-
-- Cursor [cursor.ico](./custom-icons/cursor.ico)
-
-Simply replace the icon of the app in the properties of the app.

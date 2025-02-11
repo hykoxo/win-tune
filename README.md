@@ -35,6 +35,7 @@ Here is the wallpaper on the screenshot: [https://steamcommunity.com/sharedfiles
 
 ## Custom apps icons
 I use Custom Icons for apps in my taskbar.
+
 Simply replace the icon in the properties of the app.
 
 ## Terminal

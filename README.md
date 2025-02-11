@@ -31,7 +31,7 @@ I use FancyZones from [PowerToys](https://github.com/microsoft/PowerToys) to man
 ## Wallpaper
 I use Wallpaper Engine to set a live wallpaper. You can download it [here](https://store.steampowered.com/app/431960/Wallpaper_Engine/).
 
-Here is the wallpaper on the screenshot: [https://steamcommunity.com/sharedfiles/filedetails/?id=2406282996](https://steamcommunity.com/sharedfiles/filedetails/?id=2406282996)
+Here is the wallpaper on the screenshot: [https://steamcommunity.com/sharedfiles/filedetails/?id=2181619161](https://steamcommunity.com/sharedfiles/filedetails/?id=2181619161)
 
 ## Custom apps icons
 I use Custom Icons for apps in my taskbar.

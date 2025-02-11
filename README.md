@@ -1,7 +1,7 @@
 # win-tune
 Some tools and files I use for making Windows 11 look my way.
 
-[![Windows 11](./screenshot.png)](./![preview.png](screenshot.png))
+[![Screenshot](./screenshot.jpg)](./screenshot.jpg)
 
 ## AtlasOS
 I use AtlasOS to make Windows more performant, usable, and privacy-friendly. You can download it [here](https://atlasos.net/).

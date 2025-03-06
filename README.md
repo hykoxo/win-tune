@@ -94,4 +94,5 @@ I use [Discord](https://discord.com/) as my chat app and [Vencord](https://venco
 [1Password](https://1password.com/),
 [Notion](https://www.notion.so/),
 [Figma](https://www.figma.com/),
-[Surfshark](https://www.surfshark.com/)
+[Surfshark](https://www.surfshark.com/),
+[F.lux](https://justgetflux.com/)

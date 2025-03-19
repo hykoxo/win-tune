@@ -28,8 +28,7 @@ I use Windhawk to customize Windows. You can download it [here](https://windhawk
 
 Here is the list of mods I use:
 - windows-11-start-menu-styler
-- explorer-frame-classic
-- w11-dwm-fix
+- disable-rounded-corners
 
 ## Style
 

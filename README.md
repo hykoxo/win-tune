@@ -58,9 +58,9 @@ I use the one with the shadow.
 ## Apps
 
 ### Browser
-I use [Brave](https://brave.com/) as my browser.
+I use [Chrome](https://www.google.com/intl/en_ca/chrome/) as my browser.
 
-Here is the theme I use: [Into The Black Hole](https://chromewebstore.google.com/detail/into-the-black-hole-true/faeadnfmdfamenfhaipofoffijhlnkif)
+Here is the theme I use: [Pure Black](https://chromewebstore.google.com/detail/pure-black/lebddennmjlaahddhgkckcjgdlpbbklp?pli=1)
 
 Here is some extensions I use: [1Password](https://chromewebstore.google.com/detail/1password-%E2%80%93-gestionnaire/aeblfdkhhhdcdjpifhhbdiojplfjncoa),
 [Surfshark](https://chromewebstore.google.com/detail/extension-surfshark-vpn/ailoabdmgclmfmhdagmlohpjlbpffblp)
